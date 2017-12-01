@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root :to => 'projects#index'
   resources :projects
   get '/signup' => 'users#new'
   post '/users' => 'users#create'
