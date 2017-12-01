@@ -5,6 +5,9 @@
 
 #### By _**{Qudsia Ahmad}**_
 
+<img src="readmeimages/coffee.jpeg" width="150>
+![coffee and computer](readmeimages/coffee.jpeg)
+
 ## Description
 
 _{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths,  personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable.
