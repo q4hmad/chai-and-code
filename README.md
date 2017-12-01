@@ -2,11 +2,14 @@
 
 #### _{A Portfolio site}, 12-1-2017}_
 
+![Chai-and-Code](/path/img.jpg "Title")
+
 #### By _**{Qudsia Ahmad}**_
 
 ## Description
 
-_{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths, my personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable wherever I choose to work.
+_{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths,  personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable wherever I choose to work.
+
   STRENGTHS:
   Commitment
   Persistence
@@ -16,16 +19,8 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
   Focus
   Cultural Competency
   Editing
-  
 
-
-
-   I
-Today we'll focus on our strengths and personal interests not just as coders but as people and potential employees. Before you begin working on your portfolio site, take some time to reflect on your strengths. List these strengths in your README. Be as open-ended as you like. You can focus on being serious or add humor or take any other approach you like. Relevant experience at a past job could be an example of a serious strength. Being good at walking backwards with your eyes closed might not be something you put on your resume, but feel free to put it in your README. Expressing yourself creatively in this way might lead insights about strengths that could end up in your resume or portfolio site. These quirky details can also help convey a sense of who you are as a person, which might get a potential employer's attention.
-
-
-
-
+   }_
 
 ## Setup/Installation Requirements
 
