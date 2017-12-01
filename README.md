@@ -1,8 +1,8 @@
 # _{Chai-and-Code}_
 
 #### _{A Portfolio site}, 12-1-2017}_
+![coffee](https://user-images.githubusercontent.com/28086215/33496460-29537fa6-d67f-11e7-81e2-11b1a7b8fca1.jpeg)
 
-![Chai-and-Code](readmeimages/coffee.jpeg "Title")
 
 #### By _**{Qudsia Ahmad}**_
 
