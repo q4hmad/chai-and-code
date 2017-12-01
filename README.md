@@ -22,6 +22,8 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
   Cultural Competency
   Editing
 
+  Updated past projects, took screenshots to upload them to the projects in the portfolio.
+
    }_
 
 ## Setup/Installation Requirements
