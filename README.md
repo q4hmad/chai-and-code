@@ -2,7 +2,7 @@
 
 #### _{A Portfolio site}, 12-1-2017}_
 
-![Chai-and-Code](/path/img.jpg "Title")
+![Chai-and-Code](readmeimages/coffee.jpeg "Title")
 
 #### By _**{Qudsia Ahmad}**_
 
