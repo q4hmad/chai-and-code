@@ -1,12 +1,12 @@
 # _{Chai-and-Code}_
 
 #### _{A Portfolio site}, 12-1-2017}_
-![coffee](https://user-images.githubusercontent.com/28086215/33496460-29537fa6-d67f-11e7-81e2-11b1a7b8fca1.jpeg)
+
 
 #### By _**{Qudsia Ahmad}**_
 
-<img src="readmeimages/coffee.jpeg" width="150>
-![coffee and computer](readmeimages/coffee.jpeg)
+
+
 
 ## Description
 
@@ -25,10 +25,9 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
    }_
 
 ## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
+* _Ensure you have Rails downloaded on your local computer _
+* _git clone repo from https://github.com/q4hmad/chai-and-code_
+* _run 'Bundle Install'_
 * _easy-to-understand_
 * _format_
 
