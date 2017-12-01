@@ -2,13 +2,13 @@
 
 #### _{A Portfolio site}, 12-1-2017}_
 
-![Chai-and-Code](readmeimages/coffee.jpeg "Title")
+
 
 #### By _**{Qudsia Ahmad}**_
 
 ## Description
 
-_{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths,  personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable wherever I choose to work.
+_{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths,  personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable.
 
   STRENGTHS:
   Commitment
