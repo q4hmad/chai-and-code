@@ -17,17 +17,14 @@ _This portfolio is meant to be a work-in-progress, allowing me practice with Rai
 Some of the
 
   STRENGTHS:
-  Commitment
-  Persistence
-  Self-reflection
-  Communication
-  Consistent Learning
-  Focus
-  Cultural Competency
-  Ability to collaborate and communicate
-
-  Updated past projects, took screenshots to upload them to the projects in the portfolio.
-
+  * Commitment
+  * Persistence
+  * Self-reflection
+  * Communication
+  * Consistent Learning
+  * Focus
+  * Cultural Competency
+  * Ability to collaborate and communicate
    _
 
 ## Setup/Installation Requirements
