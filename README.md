@@ -20,7 +20,7 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
   Consistent Learning
   Focus
   Cultural Competency
-  Editing
+  Ability to collaborate and communicate
 
   Updated past projects, took screenshots to upload them to the projects in the portfolio.
 
@@ -28,27 +28,27 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
 
 ## Setup/Installation Requirements
 * _Ensure you have Rails downloaded on your local computer _
-* _git clone repo from https://github.com/q4hmad/chai-and-code_
+* _git clone repo [this repository](https://github.com/q4hmad/chai-and-code).
 * _run 'Bundle Install'_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _in console, run 'rails s'
+* _launch rails server and type 'localhost:3000/projects'
+* _You may not be able to see my projects if I am currently working on the site, but check back!
+* _
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{Paperclip did not successfully install, and that issue  needs to be resolved }_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Since this is a personal portfolio, please be patient if you are not able to run the app and see my current list of projects at first. Be sure to check back to see how I'm doing on my coding journey.}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{This application uses Ruby, Rails, HTML and CSS }_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{This software is licensed under the MIT License..}*
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_{Qudsia Ahmad}_**
