@@ -1,16 +1,20 @@
-# _{Chai-and-Code}_
+# Chai-and-Code
 
-#### _{A Portfolio site}, 12-1-2017}_
+#### _A Portfolio site, 12-1-2017_
 
 
-#### By _**{Qudsia Ahmad}**_
+#### By _**Qudsia Ahmad**_
+
+![Chai-ing and coding](readmeimages/coffee.jpeg)
 
 
 
 
 ## Description
 
-_{This portfolio is meant to be a work-in-progress, allowing me practice with Rails as well as an opportunity to reflect on my strengths,  personal interests, and how the skills and experiences I bring to the table allow me to offer something unique and hopefully valuable.
+_This portfolio is meant to be a work-in-progress, allowing me practice with Rails while giving me the opportunity to reflect on my strengths and personal interests as they pertain to the world of coding and development.  I would like it to be a place to showcase the specific skills and experiences I bring to the table which make me a valuable contributor to any team.
+
+Some of the
 
   STRENGTHS:
   Commitment
@@ -24,12 +28,13 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
 
   Updated past projects, took screenshots to upload them to the projects in the portfolio.
 
-   }_
+   _
 
 ## Setup/Installation Requirements
 * _Ensure you have Rails downloaded on your local computer _
 * _git clone repo [this repository](https://github.com/q4hmad/chai-and-code).
-* _run 'Bundle Install'_
+* _cd into 'chai-and-code'
+* _run 'Bundle Install'
 * _in console, run 'rails s'
 * _launch rails server and type 'localhost:3000/projects'
 * _You may not be able to see my projects if I am currently working on the site, but check back!
@@ -37,18 +42,18 @@ _{This portfolio is meant to be a work-in-progress, allowing me practice with Ra
 
 ## Known Bugs
 
-_{Paperclip did not successfully install, and that issue  needs to be resolved }_
+_Paperclip did not successfully install, and that issue  needs to be resolved _
 
 ## Support and contact details
 
-_{Since this is a personal portfolio, please be patient if you are not able to run the app and see my current list of projects at first. Be sure to check back to see how I'm doing on my coding journey.}_
+_Since this is a personal portfolio, please be patient if you are not able to run the app and see my current list of projects at first. Be sure to check back to see how I'm doing on my coding journey._
 
 ## Technologies Used
 
-_{This application uses Ruby, Rails, HTML and CSS }_
+_This application uses Ruby, Rails, HTML and CSS _
 
 ### License
 
-*{This software is licensed under the MIT License..}*
+*This software is licensed under the MIT License..*
 
-Copyright (c) 2017 **_{Qudsia Ahmad}_**
+Copyright (c) 2017 **_Qudsia Ahmad_**
